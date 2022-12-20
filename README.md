@@ -2,9 +2,9 @@
 Resume portfolio for QA positions
 <html>
 <head>
+  <h1> Jasneet kaur CV Portfolio </h1>
 <title>Our Funky HTML Page</title>
-<meta name="description" content="Our first page">
-<meta name="keywords" content="html tutorial template">
+
 </head>
 <body>
 Content goes here.
