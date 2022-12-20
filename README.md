@@ -1,2 +1,12 @@
 # JasneetQA30.github.io
 Resume portfolio for QA positions
+<html>
+<head>
+<title>Our Funky HTML Page</title>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
+</head>
+<body>
+Content goes here.
+</body>
+</html>
