@@ -187,7 +187,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Senior QA / Valtech India, Gurgaon</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Aug 2021 - <span class="w3-tag w3-teal w3-round">Aug 2022</span></h6>
-		   <h6 class="w3-opacity"><i><b>List of projects </b> Loreal Armani, Kiehl’s, Lancôme, ITC, E-commerce Applications Entire Asia, and Australia </i></h6>
+		   <h6 class="w3-opacity"><b>List of projects </b> Loreal Armani, Kiehl’s, Lancôme, ITC, E-commerce Applications Entire Asia, and Australia</h6>
 		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Automating test scripts for End to End testcases for customer UAT,</p>
 		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Using test Ng and maven give some automation testing on web application. </p>
 		  <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Involved in Daily Status, Weekly Status meetings with Onsite team and Direct Interaction with Client.</p>
