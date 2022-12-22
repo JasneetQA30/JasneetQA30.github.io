@@ -16,7 +16,7 @@
   <div class="w3-center">
   
   <h1 class="w3-xxxlarge w3-animate-bottom">Jasneet Kaur CV Portfolio</h1>
-    <div class="w3-padding-24">
+    <div class="w3-padding-16">
       <button class="w3-btn w3-xlarge w3-theme-dark w3-hover-red" onclick="document.getElementById('id01').style.display='block'" style="font-weight:700;">Know About me</button>
     </div>
   </div>
