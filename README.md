@@ -8,8 +8,8 @@
 <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
-</head>
-<body>
+
+
 
 <!-- Header -->
 <header class="w3-container w3-theme w3-padding" id="myHeader">
@@ -57,7 +57,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 <body class="w3-light-grey">
 
 <!-- Page Container -->
-<div class="w3-content w3-margin-top" style="max-width:1350px;">
+<div class="w3-content w3-margin-top" style="max-width:1450px;">
 
   <!-- The Grid -->
   <div class="w3-row-padding">
