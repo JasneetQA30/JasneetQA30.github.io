@@ -15,600 +15,259 @@ Content goes here.
 <!DOCTYPE html>
 <html>
 <head>
-<title>Jasneet kaur CV Portfolio</title>
+<title>Jasneet Kaur CV Portfolio</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
-//<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
 <body>
 
 <!-- Header -->
 <header class="w3-container w3-theme w3-padding" id="myHeader">
-  <i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i> 
+   
+  
   <div class="w3-center">
-  <h4>BEAUTIFUL RESPONSIVE WEB SITES</h4>
-  <h1 class="w3-xxxlarge w3-animate-bottom">BUILT WITH W3.CSS</h1>
-    <div class="w3-padding-32">
-      <button class="w3-btn w3-xlarge w3-theme-dark w3-hover-red" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">Know About me</button>
+  
+  <h1 class="w3-xxxlarge w3-animate-bottom">Jasneet Kaur CV Portfolio</h1>
+    <div class="w3-padding-24">
+      <button class="w3-btn w3-xlarge w3-theme-dark w3-hover-red" onclick="document.getElementById('id01').style.display='block'" style="font-weight:700;">Know About me</button>
     </div>
   </div>
 </header>
 <!-- Modal -->
 <div id="id01" class="w3-modal">
     <div class="w3-modal-content w3-card-4 w3-animate-top">
-      <header class="w3-container w3-theme"> 
+      <header class="w3-container w3-theme-white"> 
         <span onclick="document.getElementById('id01').style.display='none'"
         class="w3-button w3-display-topright">&times;</span>
-        <h4>Oh snap! We just showed you a modal..</h4>
-        <h5>Because we can <i class="fa fa-smile-o"></i></h5>
+        <h5>Senior Quality Assurance Analyst with 10+ years of IT  industry with leading project experience as well. <i class="fa fa-smile-o"></i></h5>
       </header>
       <div class="w3-padding">
-        <p>Cool huh? Ok, enough teasing around..</p>
-        <p>Go to our <a class="w3-btn" href="/w3css/default.asp">W3.CSS Tutorial</a> to learn more!</p>
+        <p>Friendly and professional Testing specialist with extensive experience in finding extensive issues. 
+Strong interpersonal skills proven through customer satisfaction and peer recognition awards. Creative problem solver who built QA processes and Strategies. Seeks to expand career growth in a position as Automation Tester cum QA/BA. Creative problem solver who built QA processes and Strategies.</p>
+        <p> Driven self-starter and fast learner who has volunteered to help peer in team to accomplish their work.</p>
       </div>
       <footer class="w3-container w3-theme">
-        <p>Modal footer</p>
+        <p></p>
       </footer>
     </div>
 </div>
 
-<div class="w3-row-padding w3-center w3-margin-top">
-<div class="w3-third">
-  <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Responsive</h3><br>
-  <i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
-  <p>Fits any screen sizes</p>
-  <p>PC Tablet and Mobile</p>
-  </div>
+<div class="w3-padding-32">
 </div>
 
-<div class="w3-third">
-  <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Standard CSS</h3><br>
-  <i class="fa fa-css3 w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Standard CSS only</p>
-  <p>Easy to learn</p>
-  <p>No need for jQuery</p>
-  <p>No JavaScript library</p>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+</head>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1350px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+        
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+           
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Senior Quality Analyst</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Copenhagen, DK</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>jasneetj@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+45 71595781</p>
+          <hr>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Selenium Eclipse, Java, Maven, Test NG</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
+          </div>
+          <p>Performance Testing Jmeter</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">
+              <div class="w3-center w3-text-white">70%</div>
+            </div>
+          </div>
+          <p>Manual, Mobile, API Testing</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+          <p>Demand ware Salesforce Business manager BM</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:80%"></div>
+          </div>
+          <p>Hindi</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:90%"></div>
+          </div>
+          
+          <br>
+        </div>
+      </div><br>
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-large w3-text-theme"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</b></h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Master of Computer Applications</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2008 - 2011</h6>
+          <p>Master Degree from Indrprastha University, Delhi India</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Bachelors of Computer Applications</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2005 - 2008</h6>
+          <p>Bachelor Degree from Guru Nanak Dev University India</p>
+          <hr>
+        </div>
+		
+       
+      </div>
+	  <div class="w3-container w3-card w3-white">
+        <h2 class="w3-large w3-text-theme"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>ACCOLADES</b></h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Certifications</b>- ISTQB</h5>
+		  <h5 class="w3-opacity"><b>Received Award </b>as ‘Key Contributor’ for the successful implementation of the USP project in Mastek Ltd</h5>
+          
+          <hr>
+        </div>
+		
+       
+      </div>
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+	  		<div class="w3-container">
+          <h3 class="w3-large w3-text-theme"><b>Summary of Work </b></h3>
+         <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Responsible for doing automation selenium IDE  testing on Eclipses using Maven libraries, making automating test scripts, test NG, showing reports to Stake holders, automating mobile application using Appium Node.js, and with Python language.</p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Responsible leading a team & Mentor, Guide & Motivate Team Members.  </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Payment Monitoring using many gateways like Adyen, Cyber source.  </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Taking interviews from Fresher to lead roles of Advance level as well.  </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>2years works on workforce Employee management tool, ERP and Finance Tool.  </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>1.5 year worked on USP (United States of pharmacopoeia and Natural partner – Pharma Pharmaceutical companies websites.  </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Handling Severity 1 or incidents with Client and get it done from developers after explaining the actually cause, then after conducting postmortem of the incident/Issue and its preventative actions was prepared. And training and instruction planned for teams.  </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Responsible of preparing End to End cases for stakeholders and has the Exposure of conducting training for them to execute these cases with them while doing UAT as well as Customized script execution weekly basis with Stakeholders for the maintenance of the product.   </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Policies, Procedures & Control Framework - Perform regular reviews to 	Establish appropriate frameworks, policies, processes and systems.  </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Effectively working with BA’s & Project Managers to meet deliverable deadlines for various projects.  </p>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skilled in Sprint level works, Test Plan, Test Case preparation, Execution, Reporting activities, weekly status reporting to Client.  </p>
+		  <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Expertise in E-Commerce: B2B, B2C, ERP Business Domains.  </p>
+		  <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Review requirement specifications, and technical design documents to provide timely and meaningful feedback  </p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Experience in SFCC Salesforce Business manager BM, Oracle Cloud Commerce OCC Testing and configurations, ATG, OMS Order Management System, API Testing, Postman, My SQL queries.  </p>
+		    <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Expertise in Agile, Iterative and Waterfall Testing Methodologies.  </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Worked Extensively on Functional & Non-Functional Testing, System, Regression, Integration, UAT.  </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Good Experience in Mobile testing using Android & IOS devices.  </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Expertise in using Defect Tracking tools like JIRA, ALM, Bugzilla  </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Couple of months experience in setting up local Windows Servers and services. </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Track Quality Assurance metrics, like Execution Percentage, Defect leakage and defects Percentage.  </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Good Knowledge in using J-Meter Tool and preparation of scripts for Performance / Load Testing or Performance Monitoring tools.  </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Writing Json for configuration and Postman </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Experience in ClickChart Use case Tool </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Experience in APK file testing for Mobile </p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Experience in Catch point, Service Centre</p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Experience in Postman, API</p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Experience in Salesforce commerce merchant tool, CRM, service cloud  tool, </p>
+         <br>
+        </div>
+		
+        <h3 class="w3-large w3-text-theme"><b><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</b></h3>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Senior QA / Valtech India, Gurgaon</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Aug 2021 - <span class="w3-tag w3-teal w3-round">Aug 2022</span></h6>
+		   <h6 class="w3-opacity"><i><b>List of projects </b> Loreal Armani, Kiehl’s, Lancôme, ITC, E-commerce Applications Entire Asia, and Australia </i></h6>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Automating test scripts for End to End testcases for customer UAT,</p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Using test Ng and maven give some automation testing on web application. </p>
+		  <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Involved in Daily Status, Weekly Status meetings with Onsite team and Direct Interaction with Client.</p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Lead investigations for complaints and operational errors, perform root cause analysis and address gaps to ensure a stable operating environment.</p>
+		  <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Working on catch point tool to set threshold on performance of the pages of the application. Recording and identifying the incidents of spike in performance.</p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Coordinate with stakeholders on internal and external audits.</p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Provide regular management information reports. Preparing Bug leakage reports, Part of retrospective meeting</p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Managing issues appropriately to ensure organizational values and desired Employee behavior.</p>
+			<p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Responsible for leading multiple projects - Review voice logs/emails/call reports to ensure adherence to relevant </p>
+		   
+				  
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>QA Lead / Mastek LTD</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2014 - Aug 2021</h6>
+		     <h6 class="w3-opacity"><i><b>List of projects </b> USP, US Foods, STIHL, IDEX, Lululemon (US, Korea, Germany, Canada), Petmate, CORT furniture’s, Natural partners, CVI Optics, Tilly’s in USA (maximum 9 months for each project), 2 years for Employee management Tool. </i></h6>
+		 <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Managed the Manual & Automation team</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Interactions with BAs for Requirement clarifications.</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Showed Functionality Demo to Client at each Sprint.</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Worked on internal automation tool and upgraded it for web application testing</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Automating test scripts using Java, test NG on eclipse for maintenance of the sites.</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Preparing Quality Gate reports (Entry to Exit Criteria) to maintain the QA process effectively</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Presenting presentations like Regression, QA process, and Quarterly reports to the Client</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Involved in Mobile testing using physical device & Browser stack</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Worked as individual contributor and as team Lead for maximum 7 QA Team member.</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Responsible in preparing Test Deliverables for each release to Dev team</p>
+		  <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Procedures for: Payments, Management of dormant accounts, Handling of Client data, Handling of bespoke client statements.</p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Provided the estimates from QA perspective for design / Execution.</p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Responsible for task allocations for other QA Resources and providing technical guidance</p>
+		   <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Validating the SEO related tasks using the screaming frog SEO tool</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Defect and test case linkage are properly maintained in Jira and Confluence.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Test Analyst / ESS India Ltd Noida </b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Nov 2012 - Apr 2013</h6>
+		  <h6 class="w3-opacity"><i><b>List of projects </b> Development of ERP Enterprise resource Planning  Finance Tool product development</i></h6>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Responsible for writing Test cases & Test Execution for each Sprint.</p>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Worked on ERP tool and Workforce Employee management tool, Finance tool.</p><br>
+        </div>
+		<div class="w3-container">
+          <h5 class="w3-opacity"><b>Test Engineer / NIIT LTD, Gurgaon </b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Feb 2011 - Oct 2012</h6>
+		  <h6 class="w3-opacity"><i><b>List of projects </b> Development of ERP Enterprise resource Planning  Finance Tool product development</i></h6>
+          <p><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Responsible for writing Test cases & Test Execution for each Sprint.</p>
+         <br>
+        </div>
+
+      </div>
+
+
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
   </div>
+  
+  <!-- End Page Container -->
 </div>
 
-<div class="w3-third">
-  <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Design</h3><br>
-  <i class="fa fa-diamond w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Paper like design</p>
-  <p>Bold colors and shadows</p>
-  <p>Equal across platforms</p>
-  <p>Equal across devices</p>
-  </div>
-</div>
-</div>
+<footer class="w3-container w3-teal w3-center w3-margin-top">
 
-<div class="w3-container">
-<hr>
-<div class="w3-center">
-  <h2>Color Classes</h2>
-</div>
+  <a href="https://www.linkedin.com/in/jasneet-kaur-87960547" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
 
-<div class="w3-row">
-  <div class="w3-col w3-container m2 w3-red"><p>Red</p></div>
-  <div class="w3-col w3-container m2 w3-blue"><p>Blue</p></div>
-  <div class="w3-col w3-container m2 w3-blue-grey"><p>Blue Grey</p></div>
-  <div class="w3-col w3-container m2 w3-teal"><p>Teal</p></div>
-  <div class="w3-col w3-container m2 w3-yellow"><p>Yellow</p></div>
-  <div class="w3-col w3-container m2 w3-orange"><p>Orange</p></div>
-</div>
-
-<hr>
-<div class="w3-center">
-  <h2>Built-In Responsiveness</h2>
-  <p class="w3-large">Resize the page to see the effect!</p>
-</div>
-<br>
-
-<div class="w3-row w3-border">
-  <div class="w3-half w3-container w3-blue w3-border">
-    <h5>w3-half</h5>  
-    <p>The w3-half class uses half (50%) of the screen window.</p>
-    <p>On small screens (max 600 pixels) it automatically resizes to full screen width.</p>
-  </div>
-  <div class="w3-half w3-container">
-    <h5>w3-half</h5>  
-  </div>
-</div>
-<br>
-
-<div class="w3-row w3-border">
-  <div class="w3-third w3-container w3-green">
-    <h5>w3-third</h5>  
-    <p>The w3-third class uses one third (33.33%) of the screen window.</p>
-    <p>On small screens (max 600 pixels) it automatically resizes to full screen width.</p>
-  </div>
-  <div class="w3-third w3-container">
-    <h5>w3-third</h5>  
-  </div>
-  <div class="w3-third w3-container">
-    <h5>w3-third</h5>  
-  </div>
-</div>
-<br>
-
-<div class="w3-row w3-border">
-  <div class="w3-quarter w3-container w3-red">
-    <h5>w3-quarter</h5>  
-    <p>The w3-quarter class uses one quarter (25%) of the screen window.</p>
-    <p>On small screens (max 600 pixels) it automatically resizes to full screen width.</p>
-  </div>
-  <div class="w3-quarter w3-container">
-    <h5>w3-quarter</h5>  
-  </div>
-  <div class="w3-quarter w3-container">
-    <h5>w3-quarter</h5>  
-  </div>
-  <div class="w3-quarter w3-container">
-    <h5>w3-quarter</h5>  
-  </div>
-</div> 
-     
-<div class="w3-center">
-  <h2>Containers</h2>
-  <p>Use containers to create headers, sections and footers.</p>
-</div>   
-
-<header class="w3-container w3-blue-grey">
-  <h2>Header</h2>
-</header>
-
-<div class="w3-padding w3-white w3-display-container">
-  <span onclick="this.parentElement.style.display='none'" class="w3-button w3-display-topright"><i class="fa fa-remove"></i></span>
-  <h2>London</h2>
-  <p>London is the capital city of England. It is the most populous city in the United Kingdom,
-  with a metropolitan area of over 13 million inhabitants.</p>
-  <p>Standing on the River Thames, London has been a major settlement for two millennia,
-  its history going back to its founding by the Romans, who named it Londinium.</p>
-  <p>By the way, you can add a close icon to all containers if you want the ability to hide them. Look to your right!</p>
-</div>
-
-<footer class="w3-container w3-blue-grey">
-  <h5>Footer</h5>
-  <p class="w3-opacity">Footer information goes here</p>
 </footer>
 
-<hr>
-<div class="w3-center">
-  <h2>Color Themes</h2>
-  <p>The color themes have been designed to work harmoniously with each other.</p>
-</div>
-</div>
 
-<div class="w3-row-padding">
 
-<div class="w3-half">
-<div class="w3-card white">
-  <div class="w3-container w3-indigo">
-    <h3>Theme Indigo</h3>
-  </div>
-  <div class="w3-container">
-  <h3 class="w3-text-indigo">Movies 2014</h3>
-  </div>
-  <ul class="w3-ul w3-border-top">
-    <li>
-      <h3>Frozen</h3>
-      <p>The response to the animations was ridiculous</p>
-    </li>
-    <li>
-      <h3>The Fault in Our Stars</h3>
-      <p>Touching, gripping and genuinely well made</p>
-    </li>
-    <li>
-      <h3>The Avengers</h3>
-      <p>A huge success for Marvel and Disney</p>
-    </li>
-  </ul>
-  <div class="w3-container w3-indigo w3-large"><span class="w3-right">Next</span></div>
-</div>
-</div>
 
-<div class="w3-half">
-<div class="w3-card white">
-  <div class="w3-container w3-theme">
-    <h3>Theme</h3>
-  </div>
-  <div class="w3-container">
-  <h3 class="w3-text-theme">Movies 2014</h3>
-  </div>
-  <ul class="w3-ul w3-border-top">
-    <li>
-      <h3>Frozen</h3>
-      <p>The response to the animations was ridiculous</p>
-    </li>
-    <li>
-      <h3>The Fault in Our Stars</h3>
-      <p>Touching, gripping and genuinely well made</p>
-    </li>
-    <li>
-      <h3>The Avengers</h3>
-      <p>A huge success for Marvel and Disney</p>
-    </li>
-  </ul>
-  <div class="w3-container w3-theme w3-large"><span class="w3-right">Next</span></div>
-</div>
-</div>
-</div>
 
-<div class="w3-container w3-center">
-  <hr>
-  <h3>Paper-like Cards with Shadows</h3>
-</div>
-
-<div class="w3-row-padding"> 
-
-<div class="w3-third">
-<div class="w3-card">
-  <img src="/w3images/car.jpg" alt="Car" style="width:100%">
-  <div class="w3-container">
-  <p>w3-card</p>
-  </div>
-</div>
-</div>
-
-<div class="w3-third">
-<div class="w3-card-4">
-  <img src="/w3images/car.jpg" alt="Car" style="width:100%">
-  <div class="w3-container">
-  <p>w3-card-4</p>
-  </div>
-</div>
-</div>
-
-<div class="w3-third">
-<div class="w3-card-4">
-  <img src="/w3images/car.jpg" alt="Car" style="width:100%">
-  <div class="w3-container">
-  <p>w3-card-4</p>
-  </div>
-</div>
-</div>
-</div>
-
-<div class="w3-container">
-  <hr>
-  <div class="w3-center">
-    <h2>Tables</h2>
-    <p w3-class="w3-large">Don't worry. W3.CSS takes care of your tables.</p>
-  </div>
-<div class="w3-responsive w3-card-4">
-<table class="w3-table w3-striped w3-bordered">
-<thead>
-<tr class="w3-theme">
-  <th>First Name</th>
-  <th>Last Name</th>
-  <th>Points</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>Jill</td>
-  <td>Smith</td>
-  <td>50</td>
-</tr>
-<tr class="w3-white">
-  <td>Eve</td>
-  <td>Jackson</td>
-  <td>94</td>
-</tr>
-<tr>
-  <td>Adam</td>
-  <td>Johnson</td>
-  <td>67</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<hr>
-<h2 class="w3-center">Forms and Lists</h2>
-</div>
-
-<div class="w3-row-padding">
-
-<div class="w3-half">
-<form class="w3-container w3-card-4">
-  <h2>Input Form</h2>
-  <div class="w3-section">      
-    <input class="w3-input" type="text" required>
-    <label>Name</label>
-  </div>
-  <div class="w3-section">      
-    <input class="w3-input" type="text" required>
-    <label>Email</label>
-  </div>
-  <div class="w3-section">      
-    <input class="w3-input" type="text" required>
-    <label>Subject</label>
-  </div>
-
-  <div class="w3-row">
-  <div class="w3-half">
-    <input id="milk" class="w3-check" type="checkbox" checked="checked">
-    <label>Milk</label>
-    <br>
-    <input id="sugar" class="w3-check" type="checkbox">
-    <label>Sugar</label>
-    <br>
-    <input id="lemon" class="w3-check" type="checkbox" disabled>
-    <label>Lemon (Disabled)</label>
-    <br><br>
-  </div>
-
-  <div class="w3-half">
-    <input id="male" class="w3-radio" type="radio" name="gender" value="male" checked>
-    <label>Male</label>
-    <br>
-    <input id="female" class="w3-radio" type="radio" name="gender" value="female">
-    <label>Female</label>
-    <br>
-    <input id="unknown" class="w3-radio" type="radio" name="gender" value="" disabled>
-    <label> Don't know (Disabled)</label>
-  </div>
-  </div>
-</form>
-</div>
-<div class="w3-half">
-<div class="w3-card-4 w3-container">
-<h2>Lists</h2>
-<ul class="w3-ul w3-margin-bottom">
-  <li>Jill</li>
-  <li>Eve</li>
-  <li>Adam</li>
-</ul>
-<br>
-<ul class="w3-ul w3-border w3-hoverable">
-  <li class="w3-theme">Jill</li>
-  <li>Eve</li>
-  <li>Adam</li>
-  <li>Steve</li>
-</ul>
-<br>
-</div>
-</div>
-</div>
-<hr>
-
-<h2 class="w3-center">Progress Bars</h2>
-<div class="w3-container">
-
-<div class="w3-light-grey">
-  <div id="myBar" class="w3-container w3-padding w3-theme" style="width:1%">0</div>
-</div><br>
-
-<button class="w3-btn w3-theme" onclick="move()">Click Me</button> 
-</div>
-<hr>
-
-<h2 class="w3-center">Slideshows</h2>
-<div class="w3-content" style="max-width:800px;position:relative">
-
-<img class="mySlides w3-animate-opacity" src="/w3images/snow.jpg" style="width:100%">
-<img class="mySlides w3-animate-opacity" src="/w3images/lights.jpg" style="width:100%">
-<img class="mySlides w3-animate-opacity" src="/w3images/mountains.jpg" style="width:100%">
-<img class="mySlides w3-animate-opacity" src="/w3images/forest.jpg" style="width:100%">
-
-<a class="w3-button w3-hover-dark-grey" style="position:absolute;top:45%;left:0;" onclick="plusDivs(-1)">&#10094;</a>
-<a class="w3-button w3-hover-dark-grey" style="position:absolute;top:45%;right:0;" onclick="plusDivs(+1)">&#10095;</a>
-</div>
-
-<div class="w3-container">
-<hr>
-<h2 class="w3-center">Navigation</h2>
-
-<div class="w3-bar w3-theme">
-  <a href="#" class="w3-bar-item w3-button w3-padding-16">Home</a>
-  <a href="#" class="w3-bar-item w3-button w3-padding-16">Link 1</a>
-  <div class="w3-dropdown-hover">
-    <button class="w3-button w3-padding-16">
-      Dropdown <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
-      <a href="#" class="w3-bar-item w3-button">Link 1</a>
-      <a href="#" class="w3-bar-item w3-button">Link 2</a>
-      <a href="#" class="w3-bar-item w3-button">Link 3</a>
-    </div>
-  </div>
-</div>
-
-<hr>
-
-<h2 class="w3-center">Accordions</h2>
-<button onclick="myAccFunc('Demo1')" class="w3-padding-16 w3-theme w3-button w3-block w3-left-align">Open Section 1</button>
-<div id="Demo1" class="w3-hide">
-  <div class="w3-container">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  </div>
-</div>
-<button onclick="myAccFunc('Demo2')" class="w3-padding-16 w3-theme w3-button w3-block w3-left-align">Open Section 2</button>
-<div id="Demo2" class="w3-hide">
-  <a href="#" class="w3-button w3-block w3-left-align">Link 1</a>
-  <a href="#" class="w3-button w3-block w3-left-align">Link 2</a>
-  <a href="#" class="w3-button w3-block w3-left-align">Link 3</a>
-</div>
-<button onclick="myAccFunc('Demo3')" class="w3-padding-16 w3-theme w3-button w3-block w3-left-align">Open Section 3</button>
-<div id="Demo3" class="w3-hide w3-black">
-  <div class="w3-container">
-    <p>Accordion with Images:</p>
-    <img src="/w3images/snow.jpg" style="width:30%;" class="w3-animate-zoom">
-    <p>French Alps</p>
-  </div>
-</div>
-
-<hr>
-<h2 class="w3-center">Tabs</h2>
-<div class="w3-border">
-<div class="w3-bar w3-theme">
-  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'London')">London</button>
-  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Paris')">Paris</button>
-  <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Tokyo')">Tokyo</button>
-</div>
-
-<div id="London" class="w3-container city w3-animate-opacity">
-  <h2>London</h2>
-  <p>London is the capital city of England.</p>
-  <p>It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-</div>
-
-<div id="Paris" class="w3-container city w3-animate-opacity">
-  <h2>Paris</h2>
-  <p>Paris is the capital of France.</p> 
-  <p>The Paris area is one of the largest population centers in Europe, with more than 12 million inhabitants.</p>
-</div>
-
-<div id="Tokyo" class="w3-container city w3-animate-opacity">
-  <h2>Tokyo</h2>
-  <p>Tokyo is the capital of Japan.</p>
-  <p>It is the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
-</div>
-</div>
-
-<hr>
-<h2 class="w3-center">Buttons</h2>
-<div class="w3-center">
-  <br>
-  <a class="w3-button w3-theme">Button</a>
-  <a class="w3-button w3-theme">Button</a>
-  <a class="w3-button w3-theme-d3 w3-disabled">Button</a>
-  <br><br>
-  <a class="w3-button w3-circle w3-large w3-black"><i class="fa fa-plus"></i></a>
-  <a class="w3-button w3-circle w3-large w3-theme"><i class="fa fa-plus"></i></a>  
-  <a class="w3-button w3-circle w3-large w3-card-4"><i class="fa fa-plus"></i></a>
-</div>
-<br>
-<div class="w3-center">
-  <div class="w3-dropdown-hover">
-    <button class="w3-button w3-theme">Dropdown <i class="fa fa-caret-down"></i></button>
-    <div class="w3-dropdown-content w3-bar-block w3-border">
-      <a href="#" class="w3-bar-item w3-button">Link 1</a>
-      <a href="#" class="w3-bar-item w3-button">Link 2</a>
-      <a href="#" class="w3-bar-item w3-button">Link 3</a>
-    </div>
-  </div>
-</div>
-
-</div>
-
-<hr>
-<div class="w3-center">
-  <h2>Pagination</h2>
-  <!-- Pagination -->
-  <div class="w3-center w3-padding-32">
-    <div class="w3-bar">
-      <a href="#" class="w3-bar-item w3-button w3-hover-theme">&laquo;</a>
-      <a href="#" class="w3-bar-item w3-button w3-theme w3-hover-theme">1</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-theme">2</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-theme">3</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-theme">4</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-theme">5</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-theme">&raquo;</a>
-    </div>
-  </div>
-</div>
-<br>
-
-<!-- Footer -->
-<footer class="w3-container w3-theme-dark">
-  <h3>Footer</h3>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
-  <div style="position:relative;bottom:55px;" class="w3-tooltip w3-right">
-    <span class="w3-text w3-theme w3-padding">Go To Top</span>&nbsp;   
-    <a class="w3-text-white" href="#myHeader"><span class="w3-xlarge">
-    <i class="fa fa-chevron-circle-up"></i></span></a>
-  </div>
-  <p>Remember to check out our&nbsp;&nbsp;<a href="w3css_references.asp" class="w3-btn w3-theme" target="_blank">W3.CSS Reference</a></p>
-</footer>
-
-<!-- Script for Sidebar, Tabs, Accordions, Progress bars and slideshows -->
-<script>
-// Side navigation
-function w3_open() {
-  var x = document.getElementById("mySidebar");
-  x.style.width = "100%";
-  x.style.fontSize = "40px";
-  x.style.paddingTop = "10%";
-  x.style.display = "block";
-}
-
-function w3_close() {
-  document.getElementById("mySidebar").style.display = "none";
-}
-
-// Tabs
-function openCity(evt, cityName) {
-  var i;
-  var x = document.getElementsByClassName("city");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
-  }
-  var activebtn = document.getElementsByClassName("testbtn");
-  for (i = 0; i < x.length; i++) {
-    activebtn[i].className = activebtn[i].className.replace(" w3-theme-dark", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " w3-theme-dark";
-}
-
-var mybtn = document.getElementsByClassName("testbtn")[0];
-mybtn.click();
-
-// Accordions
-function myAccFunc(id) {
-  var x = document.getElementById(id);
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
-}
-
-// Slideshows
-var slideIndex = 1;
-
-function plusDivs(n) {
-  slideIndex = slideIndex + n;
-  showDivs(slideIndex);
-}
-
-function showDivs(n) {
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = x.length} ;
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-
-showDivs(1);
-
-// Progress Bars
-function move() {
-  var elem = document.getElementById("myBar");   
-  var width = 1;
-  var id = setInterval(frame, 10);
-  function frame() {
-    if (width == 100) {
-      clearInterval(id);
-    } else {
-      width++; 
-      elem.style.width = width + '%'; 
-      elem.innerHTML = width * 1  + '%';
-    }
-  }
-}
-</script>
-
-</body>
-</html>
