@@ -1,17 +1,3 @@
-# JasneetQA30.github.io
-Resume portfolio for QA positions
-<html>
-<head>
-  <h1> Jasneet kaur CV Portfolio </h1>
-<title>Our Funky HTML Page</title>
-
-</head>
-<body>
-Content goes here.
-</body>
-</html>
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -266,6 +252,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <a href="https://www.linkedin.com/in/jasneet-kaur-87960547" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
 
 </footer>
+
+</body>
+</html>
 
 
 
