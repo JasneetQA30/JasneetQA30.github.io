@@ -15,10 +15,8 @@
   
   <div class="w3-center">
   
-  <h1 class="w3-xxxlarge w3-animate-bottom">Jasneet Kaur CV Portfolio</h1>
-    <div class="w3-padding-8">
-      <button class="w3-btn w3-large w3-theme-dark w3-hover-red" onclick="document.getElementById('id01').style.display='block'" style="font-weight:700;">Know About me</button>
-    </div>
+  <h1 class="w3-xxlarge w3-animate-bottom">Jasneet Kaur CV Portfolio</h1>
+    
   </div>
 </header>
 <!-- Modal -->
@@ -40,7 +38,7 @@ Strong interpersonal skills proven through customer satisfaction and peer recogn
     </div>
 </div>
 
-<div class="w3-padding-16">
+<div class="w3-padding-10">
 </div>
 
 <meta charset="UTF-8">
@@ -78,7 +76,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>jasneetj@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+45 71595781</p>
           <hr>
-
+<div class="w3-padding-8">
+      <button class="w3-btn w3-large w3-theme-dark w3-hover-red" onclick="document.getElementById('id01').style.display='block'" style="font-weight:700;">Know About me</button>
+    </div>
           <p class="w3-large w3-text-theme"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>Selenium Eclipse, Java, Maven, Test NG</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
