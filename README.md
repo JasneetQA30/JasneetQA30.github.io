@@ -40,7 +40,7 @@ Strong interpersonal skills proven through customer satisfaction and peer recogn
     </div>
 </div>
 
-<div class="w3-padding-32">
+<div class="w3-padding-16">
 </div>
 
 <meta charset="UTF-8">
